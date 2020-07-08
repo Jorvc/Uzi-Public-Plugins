@@ -27,3 +27,8 @@ Installation
 Place the terminal folder into your plugins folder, and then maybe fix things or customize it? (ixhl2rp/plugins)
 # NAME
 # NAME
+Terminal
+Requirements
+Installation
+Installation
+Drugs
