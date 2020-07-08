@@ -24,4 +24,3 @@ https://i.imgur.com/5NB5E5K.png
 
 Installation
 Place the terminal folder into your plugins folder, and then maybe fix things or customize it? (ixhl2rp/plugins)
-<<<<<<< HEAD
