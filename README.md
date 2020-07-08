@@ -1,7 +1,7 @@
 Uzi's Public Helix Plugins
 If you need help with anything or want to talk, please DM me @ Uzi#0213
 
-Drugs
+Drugs -
 Adds a drug system to your game, also giving the player effects on screen!
 
 Requirements :
@@ -10,10 +10,10 @@ Schema - This does not require a ixhl2rp schema, you can use this on any Helix g
 
 https://i.imgur.com/3n9IYNd.png
 
-Installation
+Installation -
 Place the drugs folder into your plugins folder, and boom it's ready to use. (ixSCHEMArp/plugins)
 
-Terminal
+Terminal -
 Adds a terminal entity that you can customize, no I did not put in the time to fix anything, sorry.
 
 Requirements :
@@ -22,5 +22,5 @@ Schema - Most likely a ixhl2rp schema, fits it the most.
 
 https://i.imgur.com/5NB5E5K.png
 
-Installation
+Installation -
 Place the terminal folder into your plugins folder, and then maybe fix things or customize it? (ixhl2rp/plugins)
