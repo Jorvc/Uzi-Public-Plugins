@@ -13,6 +13,7 @@ https://i.imgur.com/3n9IYNd.png
 Installation
 Place the drugs folder into your plugins folder, and boom it's ready to use. (ixSCHEMArp/plugins)
 
+Terminal
 Adds a terminal entity that you can customize, no I did not put in the time to fix anything, sorry.
 
 Requirements :
@@ -24,12 +25,3 @@ https://i.imgur.com/5NB5E5K.png
 Installation
 Place the terminal folder into your plugins folder, and then maybe fix things or customize it? (ixhl2rp/plugins)
 <<<<<<< HEAD
-# NAME
-# NAME
-Terminal
-Requirements
-Installation
-Installation
-Drugs
-=======
->>>>>>> 38e644b1c9a692693b830e31775facad32ce7b56
