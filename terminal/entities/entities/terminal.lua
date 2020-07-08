@@ -4,8 +4,8 @@ AddCSLuaFile()
 ENT.Base = "base_gmodentity"
 ENT.Type = "anim"
 
-ENT.PrintName= "Terminal"
-ENT.Category="HL2 RP"
+ENT.PrintName = "Terminal"
+ENT.Category = "HL2 RP"
 
 ENT.Spawnable = true
 ENT.AdminOnly = true
