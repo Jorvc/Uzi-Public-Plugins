@@ -14,7 +14,7 @@ ITEM.functions.Eat = {
 		client:GetCharacter():AddBoost("debuff2", "stm", -2)
 		client:GetCharacter():AddBoost("buff1", "fue", 3)
 
-		hook.Run("SetupDrugTimer", client, client:GetCharacter(), itemTable.uniqueID, 1800)
+		hook.Run("SetupDrugTimer", client, client:GetCharacter(), itemTable.uniqueID, 5)
 	end
 }
 
