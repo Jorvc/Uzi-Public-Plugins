@@ -1,6 +1,6 @@
 function PLUGIN:SetupDrugTimer(client, character, drug, drugtimer)
 	local steamID = client:SteamID64()
-	local drugtimer = drugtimer or 100
+	local drugtimer = drugtimer or 5
 	character:SetDrug(drug)
 	character:SetDrugTimer(drugtimer)
 	timer.Create("ixDrug" .. steamID, 1, 0, function()
