@@ -7,7 +7,7 @@ PLUGIN.description = "Adds a advanced drug system, with multiple drugs and effec
 ix.char.RegisterVar("drugTimer", {
 	field = "drugTimer",
 	fieldType = ix.type.number,
-	default = 100,
+	default = 5,
 	isLocal = true,
 	bNoDisplay = true
 })
